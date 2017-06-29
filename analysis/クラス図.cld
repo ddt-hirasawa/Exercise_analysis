@@ -139,8 +139,8 @@
                         <constraint>
                           <height>-1</height>
                           <width>-1</width>
-                          <x>683</x>
-                          <y>623</y>
+                          <x>795</x>
+                          <y>621</y>
                         </constraint>
                         <sourceConnections>
                           <net.java.amateras.uml.classdiagram.model.GeneralizationModel>
@@ -172,8 +172,8 @@
                               <constraint>
                                 <height>-1</height>
                                 <width>-1</width>
-                                <x>935</x>
-                                <y>622</y>
+                                <x>1051</x>
+                                <y>626</y>
                               </constraint>
                               <sourceConnections/>
                               <targetConnections>
@@ -317,8 +317,8 @@
                               <constraint>
                                 <height>-1</height>
                                 <width>-1</width>
-                                <x>933</x>
-                                <y>784</y>
+                                <x>1037</x>
+                                <y>872</y>
                               </constraint>
                               <sourceConnections/>
                               <targetConnections>
@@ -462,8 +462,8 @@
                               <constraint>
                                 <height>-1</height>
                                 <width>-1</width>
-                                <x>945</x>
-                                <y>923</y>
+                                <x>697</x>
+                                <y>867</y>
                               </constraint>
                               <sourceConnections/>
                               <targetConnections>
@@ -607,8 +607,8 @@
                               <constraint>
                                 <height>-1</height>
                                 <width>-1</width>
-                                <x>661</x>
-                                <y>926</y>
+                                <x>369</x>
+                                <y>866</y>
                               </constraint>
                               <sourceConnections/>
                               <targetConnections>
@@ -3000,8 +3000,8 @@
       <constraint>
         <height>31</height>
         <width>164</width>
-        <x>653</x>
-        <y>581</y>
+        <x>765</x>
+        <y>579</y>
       </constraint>
       <sourceConnections/>
       <targetConnections/>
@@ -3055,8 +3055,8 @@
       <constraint>
         <height>40</height>
         <width>205</width>
-        <x>1056</x>
-        <y>621</y>
+        <x>1180</x>
+        <y>627</y>
       </constraint>
       <sourceConnections/>
       <targetConnections/>
@@ -3085,8 +3085,8 @@
       <constraint>
         <height>40</height>
         <width>179</width>
-        <x>1067</x>
-        <y>784</y>
+        <x>1171</x>
+        <y>872</y>
       </constraint>
       <sourceConnections/>
       <targetConnections/>
@@ -3112,8 +3112,8 @@
       <constraint>
         <height>39</height>
         <width>170</width>
-        <x>1071</x>
-        <y>922</y>
+        <x>823</x>
+        <y>866</y>
       </constraint>
       <sourceConnections/>
       <targetConnections/>
@@ -3140,8 +3140,8 @@
       <constraint>
         <height>30</height>
         <width>145</width>
-        <x>796</x>
-        <y>924</y>
+        <x>504</x>
+        <y>864</y>
       </constraint>
       <sourceConnections/>
       <targetConnections/>
