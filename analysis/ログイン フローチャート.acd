@@ -316,7 +316,7 @@
                               </targetConnections>
                               <children/>
                               <filterProperty/>
-                              <actionName>パスワードが合致しましたのログインを許可します</actionName>
+                              <actionName>パスワードが合致しましたのログインを許可します。それに伴って各情報を取り出しセットします</actionName>
                             </target>
                             <bendpoints/>
                             <condition></condition>
